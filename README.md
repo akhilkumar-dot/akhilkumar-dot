@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mutyalapati Akhil Kumar<br><br>🚀 Aspiring ML Engineer | Machine Learning | Deep Learning | NLP<br>🎓 B.Tech Student | Passionate about solving real-world problems with data<br>🛠️ Building cool projects in AI/ML, NLP, and Computer Vision<br>📂 Check out my work below & feel free to collaborate or connect!
+👋 Hi, I'm Mutyalapati Akhil Kumar<br><br>🚀 Aspiring ML Engineer | Data Science | Machine Learning | Deep Learning | NLP<br>🎓 B.Tech Student | Passionate about solving real-world problems with data<br>🛠️ Building cool projects in AI/ML, NLP, and Computer Vision<br>📂 Check out my work below & feel free to collaborate or connect!
 
 
 ## 🌐 Socials:
