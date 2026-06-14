@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Mutyalapati%20Akhil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Java%20Spring%20Boot&descAlignY=55&descAlign=50" width="100%"/>
 </p>
@@ -42,7 +43,7 @@
   I build production-grade systems that scale — from order matching engines to distributed rate limiters.</em>
 </p>
 
-
+```yaml
 name: Mutyalapati Akhil
 role: Backend Engineer
 university: Vellore Institute of Technology, Amaravati
@@ -61,7 +62,7 @@ open_to:
   - Software Engineering Roles
   - Distributed Systems Projects
   - Open Source Collaboration
-
+```
 
 ---
 
