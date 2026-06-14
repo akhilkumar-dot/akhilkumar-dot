@@ -42,7 +42,7 @@
   I build production-grade systems that scale — from order matching engines to distributed rate limiters.</em>
 </p>
 
-```yaml
+
 name: Mutyalapati Akhil
 role: Backend Engineer
 university: Vellore Institute of Technology, Amaravati
@@ -61,7 +61,7 @@ open_to:
   - Software Engineering Roles
   - Distributed Systems Projects
   - Open Source Collaboration
-```
+
 
 ---
 
