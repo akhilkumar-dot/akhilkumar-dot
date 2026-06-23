@@ -48,7 +48,7 @@ name: Mutyalapati Akhil
 role: Backend Engineer
 university: Vellore Institute of Technology, Amaravati
 degree: B.Tech Computer Science and Engineering
-cgpa: 8.21 / 10.0
+cgpa: 8.11 / 10.0
 batch: 2023 - 2027
 location: Amaravati, Andhra Pradesh, India
 specialization:
