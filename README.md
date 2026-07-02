@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VIT%20Amaravati-B.Tech%20CSE-7B2FBE?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CGPA-8.21%2F10.0-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.11%2F10.0-6A0DAD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Batch-2023--2027-5B21B6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Location-Amaravati%2C%20AP-4C1D95?style=for-the-badge&logo=google-maps&logoColor=white"/>
 </p>
