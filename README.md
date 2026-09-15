@@ -260,13 +260,6 @@ open_to:
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akhilkumar-dot&bg_color=0D1117&color=7B2FBE&line=6A0DAD&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
